@@ -1,11 +1,12 @@
+import Header from "./Components/Header";
+
 function App() {
   const name = "Stevens";
   const x = false;
 
   return (
     <div className="container">
-      <h1>Hello from React</h1>
-      <h2>Hi {x ? name : "Weirdo"}</h2>
+      <Header title={1} />
     </div>
   );
 }
