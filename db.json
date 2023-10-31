@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Wake Up",
+      "day": "October 31 at 9:00AM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Ice Bucket Challenge",
+      "day": "October 31 at 9:05AM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Back to Sleep",
+      "day": "October 31 at 9:10AM",
+      "reminder": false
+    }
+  ]
+}
