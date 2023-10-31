@@ -9,13 +9,13 @@
     {
       "text": "Test Task No Day",
       "day": "",
-      "reminder": false,
+      "reminder": true,
       "id": 2
     },
     {
       "text": "Test Task After Router",
       "day": "October 30 at 9pm",
-      "reminder": false,
+      "reminder": true,
       "id": 3
     }
   ]
