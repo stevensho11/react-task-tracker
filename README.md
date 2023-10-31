@@ -1,6 +1,6 @@
 # Task Tracker Application
 
-A simple task tracker application to practice learning React hooks and using components. Simulates fetching from a server using JSON server.
+A task tracker application to practice learning React hooks and using components. Simulates fetching from a server using JSON server.
 
 ## Credits: Traversy Media
 
